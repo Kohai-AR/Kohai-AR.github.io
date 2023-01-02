@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-<html>
 <head>
 <style>
     body {
@@ -41,7 +39,7 @@
     <hr>
     <h2>Some anime franchises I like:</h2>
     <ul>
-	<li><a href="https://www.angelbeats.jp/"target="_blank" rel="noopener noreferrer">Angel Beats (Japanese Website)</a></li>
+	<li><a href="https://www.angelbeats.jp/" target="_blank" rel="noopener noreferrer">Angel Beats (Japanese Website)</a></li>
     	<li><a href="https://bang-dream-gbp-en.bushiroad.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a></li>
 	<li><a href="https://www.charlotteanime.com/" target="_blank" rel="noopener noreferrer">Charlotte</a></li>
 	<li><a href="https://gochiusa.com/bloom/" target="_blank" rel="noopener noreferrer">Is the Order a Rabbit? (Japanese Website)</a></li>
@@ -67,7 +65,7 @@
     <hr>
     <h1 style="text-align:center; font-family: 'Courier New', monospace;">Some Lists of Mine</h1>
     <h2>A Ranked List of My Top Anime Music Artists.</h2>
-    <p>Please don't shoot me for my rankings, these are just personal opinions and I don't mean to offend anyone with my rankings. <em style="color:grey"> All links in the artist namelead to the artist's Spotify page, and if they don't have a Spotify page the link will lead to the band's album on YouTube. The links for the anime names takes you to the anime website, whether it be through their official website or MyAnimeList. </em> </p>
+    <h6>Please don't shoot me for my rankings, these are just personal opinions and I don't mean to offend anyone with my rankings. <em style="color:grey"> All links in the artist namelead to the artist's Spotify page, and if they don't have a Spotify page the link will lead to the band's album on YouTube. The links for the anime names takes you to the anime website, whether it be through their official website or MyAnimeList. </em> </h6>
     <ol>
     	<li><a href="https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6" target="_blank" rel="noopener noreferrer">Poppin'Party</a> (<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
     	<li><a href="https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5" target="_blank" rel="noopener noreferrer">Hello, Happy World!</a> (<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
