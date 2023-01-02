@@ -77,7 +77,7 @@
     	<li><a href="https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg" target="_blank" rel="noopener noreferrer">Pastel＊Palettes </a>(<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
     	<li><a href="https://youtu.be/URJT5d5Xxl4" target="_blank" rel="noopener noreferrer">2-B Pencils</a> (<a href="https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II" target="_blank" rel="noopener noreferrer"> The World God Only Knows 2</a>)</li>
     	<li><a href="https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i" target="_blank" rel="noopener noreferrer">μ's</a> (<a href="https://www.lovelive-anime.jp/otonokizaka/worldwide/" target="_blank" rel="noopener noreferrer">Love Live! School Idol Project</a>)</li>
-    	<li><a href="https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"target="_blank" rel="noopener noreferrer">Afterglow </a>(<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
+    	<li><a href="https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI" target="_blank" rel="noopener noreferrer">Afterglow </a>(<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
     	<li><a href="https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"target="_blank" rel="noopener noreferrer">Morfonica</a> (<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
     </ol>
     <h2>Top Rock Music Albums of Mine </h2>
