@@ -78,7 +78,7 @@
     	<li><a href="https://youtu.be/URJT5d5Xxl4" target="_blank" rel="noopener noreferrer">2-B Pencils</a> (<a href="https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II" target="_blank" rel="noopener noreferrer"> The World God Only Knows 2</a>)</li>
     	<li><a href="https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i" target="_blank" rel="noopener noreferrer">μ's</a> (<a href="https://www.lovelive-anime.jp/otonokizaka/worldwide/" target="_blank" rel="noopener noreferrer">Love Live! School Idol Project</a>)</li>
     	<li><a href="https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI" target="_blank" rel="noopener noreferrer">Afterglow </a>(<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
-    	<li><a href="https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"target="_blank" rel="noopener noreferrer">Morfonica</a> (<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
+    	<li><a href="https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ" target="_blank" rel="noopener noreferrer">Morfonica</a> (<a href="https://en.bang-dream.com/" target="_blank" rel="noopener noreferrer">BanG Dream!</a>)</li>
     </ol>
     <h2>Top Rock Music Albums of Mine </h2>
     <p></p>
@@ -91,8 +91,8 @@
     	<li><a href="https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q?si=GCr7FVZMSYKpH7aogi11Fw" target="_blank" rel="noopener noreferrer">Blue Album </a>(<a href="https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu?si=H67WhBTgSqeTPXgJ8HjtlA" target="_blank" rel="noopener noreferrer">Weezer</a>)</li>
     	<li><a href="https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6?si=yKW_6bdESHionlkTxRlujw" target="_blank" rel="noopener noreferrer">Dookie</a> (<a href="https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY?si=fiq8k2FDTn2k6edZq50ltA" target="_blank" rel="noopener noreferrer">Green Day</a>)</li>
     	<li><a href="https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr?si=8m7am_-kT6OnAYtfT_iujw" target="_blank" rel="noopener noreferrer">A Night at the Opera</a> (<a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=sWxAx8UfRY2_TCmHpVINeQ" target="_blank" rel="noopener noreferrer">Queen</a>)</li>
-    	<li><a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK?si=GybonVgJSGyxKfnZt6KTLQ"target="_blank" rel="noopener noreferrer">The Black Parade</a>(<a href="https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb?si=tjrna6O0RqWlTjg03mUK6w" target="_blank" rel="noopener noreferrer">My Chemical Romance</a>)</li>
-    	<li><a href="https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE?si=x6FoWXqiSNyH2JLEx6NrJQ"target="_blank" rel="noopener noreferrer">Father of All Motherfuckers</a> (<a href="https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY?si=fiq8k2FDTn2k6edZq50ltA" target="_blank" rel="noopener noreferrer">Green Day</a>)</li>
+    	<li><a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK?si=GybonVgJSGyxKfnZt6KTLQ" target="_blank" rel="noopener noreferrer">The Black Parade</a>(<a href="https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb?si=tjrna6O0RqWlTjg03mUK6w" target="_blank" rel="noopener noreferrer">My Chemical Romance</a>)</li>
+    	<li><a href="https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE?si=x6FoWXqiSNyH2JLEx6NrJQ" target="_blank" rel="noopener noreferrer">Father of All Motherfuckers</a> (<a href="https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY?si=fiq8k2FDTn2k6edZq50ltA" target="_blank" rel="noopener noreferrer">Green Day</a>)</li>
     </ol>
     <hr>
     <h1 style="text-align:center; font-family: 'Courier New', monospace;">My Socials</h1>
