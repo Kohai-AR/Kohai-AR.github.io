@@ -21,7 +21,7 @@
     <meta content="https://arr.github.io/" property=og:url">
 </head>
 <body>
-    <h1 style="font-family:verdana; text-align:center;"> The Website of Me: ARR!</h1>
+    <h1 style="font-family:verdana; text-align:center;"> The Website of Me: ARR!!</h1>
     <h2 style="font-family:Comic Sans MS; text-align:center; color:FFDD00;">Happy! Lucky! Smile, Yay~!</h2>
     <h3 style="text-align:center;">Look at me, I'm actually doing this! </h3>
     <h4 style="text-align:center; color:FFFFDD;">Hello Happy World</h4>
